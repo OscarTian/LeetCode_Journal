@@ -1,5 +1,5 @@
 # LeetCode_Journal
-As the title said.
+As the title says.
 ## 2026.02.01
 
 ### [88. 合并两个有序数组](solution/array/88.cpp)
