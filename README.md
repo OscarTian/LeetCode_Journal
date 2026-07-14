@@ -1,5 +1,6 @@
 # LeetCode_Journal
-As the title says.
+* As the title says. *
+*This project is written entirely in C++.*
 ## 2026.02.01
 
 ### [88. 合并两个有序数组](solution/array/88.cpp)
