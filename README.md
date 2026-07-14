@@ -1,6 +1,6 @@
 # LeetCode_Journal
 As the title said.
-## 2026.02.01&07.14
+## 2026.02.01
 
 ### 88. 合并有序数组
 - 逆向操作避免数据覆盖
@@ -14,4 +14,3 @@ As the title said.
 - 比较 nums[k] 与 nums[p]
 - 发现新元素时先移动k再赋值
 
----
