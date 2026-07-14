@@ -28,5 +28,8 @@
 ### [189. 轮转数组](solutions/array&string/189.cpp)
 - 考虑边界情况
 
+### [121. 买卖股票的最佳时机](solutions/array&string/121.cpp)
+- 一次遍历，更新目前最低买入价和历史最高利润
+
 
 ---
