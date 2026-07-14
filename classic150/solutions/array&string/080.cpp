@@ -24,7 +24,7 @@ public:
     }
 };
 
-/* 最快解法
+/* 最优解法
 class Solution {
 public:
     int removeDuplicates(vector<int>& nums) {
