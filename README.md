@@ -1,4 +1,4 @@
-# LeetCode_Journal
+# LeetCode_Journal Classic 150
 *As the title says.*  
 *This project is written entirely in C++.*
 ## 2026.02.01
