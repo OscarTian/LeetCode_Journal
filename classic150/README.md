@@ -31,5 +31,8 @@
 ### [121. 买卖股票的最佳时机](solutions/array&string/121.cpp)
 - 一次遍历，更新目前最低买入价和历史最高利润
 
+### [122. 买卖股票的最佳时机 II](solutions/array&string/122.cpp)
+- 注意for循环的现代写法auto x
+
 
 ---
