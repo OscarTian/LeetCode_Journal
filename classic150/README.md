@@ -34,5 +34,7 @@
 ### [122. 买卖股票的最佳时机 II](solutions/array&string/122.cpp)
 - 注意for循环的现代写法`auto x`
 
+### [55. 跳跃游戏](solutions/array&string/055.cpp)
+
 
 ---
