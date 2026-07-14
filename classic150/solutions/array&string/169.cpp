@@ -19,7 +19,7 @@ public:
     }
 };
 
-/*
+/* 最优解法
 class Solution {
 public:
     int majorityElement(vector<int>& nums) {
