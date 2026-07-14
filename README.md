@@ -1,5 +1,5 @@
 # LeetCode_Journal
-* As the title says. *
+*As the title says.*
 *This project is written entirely in C++.*
 ## 2026.02.01
 
