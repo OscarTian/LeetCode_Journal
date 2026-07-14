@@ -5,14 +5,14 @@
 
 ### [88. 合并两个有序数组](solutions/array&string/088.cpp)
 - 逆向操作避免数据覆盖
-- 只需处理完'nums2'即可结束
+- 只需处理完`nums2`即可结束
 
 ### [27. 移除元素](solutions/array&string/027.cpp)
 - 快慢指针实现原地修改
 - 注意边界条件
 
 ### [26. 删除有序数组中的重复项](solutions/array&string/026.cpp)
-- 比较'nums[k]'与'nums[p]'
+- 比较`nums[k]`与`nums[p]`
 - 发现新元素时先移动k再赋值
 ## 2026.07.14
 
@@ -32,7 +32,7 @@
 - 一次遍历，更新目前最低买入价和历史最高利润
 
 ### [122. 买卖股票的最佳时机 II](solutions/array&string/122.cpp)
-- 注意for循环的现代写法'auto x'
+- 注意for循环的现代写法`auto x`
 
 
 ---
