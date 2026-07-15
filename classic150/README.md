@@ -13,7 +13,7 @@
 
 ### [26. 删除有序数组中的重复项](solutions/array&string/026.cpp)
 - 比较`nums[k]`与`nums[p]`
-- 发现新元素时先移动k再赋值
+- 发现新元素时先移动`k`再赋值
 ## 2026.07.14
 
 ### [80. 删除有序数组中的重复项 II](solutions/array&string/080.cpp)
