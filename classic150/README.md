@@ -43,5 +43,7 @@
 ### [45. 跳跃游戏 II](solutions/array&string/045.cpp)
 - 贪心算法捕捉最远边界，到达边界时更新`step`
 
+### [274. H指数](solutions/array&string/274.cpp)
+
 
 ---
