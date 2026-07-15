@@ -45,7 +45,8 @@
 
 ### [274. H指数](solutions/array&string/274.cpp)
 
-
+### [380. O(1)时间插入、删除和获取随机元素](solutions/array&string/380.cpp)
+- 数组+哈希表结合，利用数组下标实现随机访问，利用哈希表快速定位元素
 
 ### [238. 除了自身以外数组的乘积](solutions/array&string/238.cpp)
 - 双向一次遍历
