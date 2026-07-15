@@ -45,5 +45,8 @@
 
 ### [274. H指数](solutions/array&string/274.cpp)
 
+### [238. 除了自身以外数组的乘积](solutions/array&string/238.cpp)
+- 双向一次遍历
+
 
 ---
