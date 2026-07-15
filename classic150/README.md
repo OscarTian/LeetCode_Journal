@@ -1,6 +1,7 @@
 # LeetCode_Journal Classic150
 *As the title says.*  
 *This project is written entirely in C++.*
+
 ## 2026.02.01
 
 ### [88. 合并两个有序数组](solutions/array&string/088.cpp)
@@ -14,6 +15,7 @@
 ### [26. 删除有序数组中的重复项](solutions/array&string/026.cpp)
 - 比较`nums[k]`与`nums[p]`
 - 发现新元素时先移动`k`再赋值
+
 ## 2026.07.14
 
 ### [80. 删除有序数组中的重复项 II](solutions/array&string/080.cpp)
@@ -32,9 +34,14 @@
 - 一次遍历，更新目前最低买入价和历史最高利润
 
 ### [122. 买卖股票的最佳时机 II](solutions/array&string/122.cpp)
-- 注意for循环的现代写法`auto x`
+- 注意`for`循环的现代写法`auto x`
 
 ### [55. 跳跃游戏](solutions/array&string/055.cpp)
+
+## 2026.07.15
+
+### [45. 跳跃游戏 II](solutions/array&string/045.cpp)
+- 贪心算法捕捉最远边界，到达边界时更新`step`
 
 
 ---
