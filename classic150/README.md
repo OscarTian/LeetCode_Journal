@@ -45,8 +45,14 @@
 
 ### [274. H指数](solutions/array&string/274.cpp)
 
+
+
 ### [238. 除了自身以外数组的乘积](solutions/array&string/238.cpp)
 - 双向一次遍历
+
+### [134. 加油站](solutions/array&string/134.cpp)
+- 如果从`start`出发到不了`i+1`，那么`start...i`都不可能是起点
+- 贪心算法，维护剩余油量
 
 
 ---
