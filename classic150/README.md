@@ -76,5 +76,8 @@
 ### [151. 反转字符串中的单词](solutions/array&string/151.cpp)
 - 对字符串的不同操作
 
+### [6. Z字形变换](solutions/array&string/006.cpp)
+- 数学遍历，确保不越界
+
 
 ---
