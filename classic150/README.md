@@ -86,5 +86,10 @@
 ### [68. 文本左右对齐](solutions/arrays-strings/068.cpp)
 - 贪心算法，维护大量信号变量
 
+### [125. 文本左右对齐](solutions/two-pointers/125.cpp)
+- 使用双指针向中间扫描
+- `isalnum`判断是否为字母或数字
+- `tolower`将字符统一成小写
+
 
 ---
