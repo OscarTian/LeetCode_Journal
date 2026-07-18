@@ -70,5 +70,8 @@
 ### [58. 最后一个单词的长度](solutions/array&string/058.cpp)
 - 考虑边界情况处理
 
+### [14. 最长公共前缀](solutions/array&string/014.cpp)
+- 注意字符串与字符在插入中的不同处理
+
 
 ---
