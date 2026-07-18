@@ -67,5 +67,8 @@
 
 ### [12. 整数转罗马数字](solutions/array&string/012.cpp)
 
+### [12. 整数转罗马数字](solutions/array&string/012.cpp)
+- 考虑边界情况处理
+
 
 ---
