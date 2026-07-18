@@ -73,5 +73,8 @@
 ### [14. 最长公共前缀](solutions/array&string/014.cpp)
 - 注意字符串与字符在插入中的不同处理
 
+### [151. 反转字符串中的单词](solutions/array&string/151.cpp)
+- 对字符串的不同操作
+
 
 ---
