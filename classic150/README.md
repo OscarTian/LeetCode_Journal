@@ -79,5 +79,9 @@
 ### [6. Z字形变换](solutions/array&string/006.cpp)
 - 数学遍历，确保不越界
 
+### [28. 找出字符串中第一个匹配项的下标](solutions/array&string/028.cpp)
+- 利用`find`函数快速实现
+- 维护前缀表避免主串指针的回退
+
 
 ---
