@@ -106,5 +106,8 @@
 ### [36. 有效的数独](solutions/matrix/036.cpp)
 - 矩阵问题
 
+### [383. 赎金信](solutions/hash-table/383.cpp)
+- 哈希表"键-值"映射
+
 
 ---
