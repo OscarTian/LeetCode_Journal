@@ -103,5 +103,8 @@
 ### [209. 长度最小的子数组](solutions/sliding-window/209.cpp)
 - 滑动窗口法
 
+### [36. 有效的数独](solutions/matrix/036.cpp)
+- 矩阵问题
+
 
 ---
