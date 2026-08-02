@@ -125,5 +125,9 @@
 ### [20. 有效的括号](solutions/stack/020.cpp)
 - `vector`类的`back`与`pop_back`函数
 
+### [71. 简化路径](solutions/stack/071.cpp)
+- `stringstream`函数配合`getline`函数流式处理
+- `empty`函数
+
 
 ---
