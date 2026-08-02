@@ -122,5 +122,8 @@
 
 ### [56. 合并区间](solutions/interval/056.cpp)
 
+### [20. 有效的括号](solutions/stack/020.cpp)
+- `vector`类的`back`与`pop_back`函数
+
 
 ---
