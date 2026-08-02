@@ -120,5 +120,7 @@
 ### [228. 汇总区间](solutions/interval/228.cpp)
 - `to_string`函数
 
+### [56. 合并区间](solutions/interval/056.cpp)
+
 
 ---
