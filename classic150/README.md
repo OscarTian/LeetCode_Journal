@@ -109,8 +109,13 @@
 ### [383. 赎金信](solutions/hash-table/383.cpp)
 - 哈希表"键-值"映射
 
+## 2026.08.02
+
 ### [49. 字母异位词分组](solutions/hash-table/049.cpp)
-- 
+- `reserve`函数用于预分配内存
+- `sort`函数对`string`类或`char`类数组排序
+- `move`函数避免拷贝
+- 类型推导关键字`auto`
 
 
 ---
