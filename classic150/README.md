@@ -117,5 +117,8 @@
 - `move`函数避免拷贝
 - 类型推导关键字`auto`
 
+### [228. 汇总区间](solutions/hash-table/228.cpp)
+- `to_string`函数
+
 
 ---
