@@ -134,5 +134,9 @@
 ### [141. 环形链表](solutions/linked-list/141.cpp)
 - 指针的使用和处理
 
+### [2. 两数相加](solutions/linked-list/002.cpp)
+- 虚拟头节点简化操作
+- 区别对象与指针
+
 
 ---
