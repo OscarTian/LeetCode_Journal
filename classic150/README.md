@@ -146,5 +146,8 @@
 ### [105. 从前序与中序遍历序列构造二叉树](solutions/binary-tree/105.cpp)
 - 递归
 
+### [637. 二叉树的层平均值](solutions/binary-tree-level-order/637.cpp)
+- `queue`类型的`push`,`empty`,`pop`函数
+
 
 ---
