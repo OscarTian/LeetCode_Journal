@@ -153,5 +153,9 @@
 - pair类型,与stack类型的`push`,`empty`,`pop`,`top`函数
 - dfs递归
 
+### [530. 二叉搜索树的最小绝对差](solutions/binary-search-tree/530.cpp)
+- auto类与dfs递归
+- 中序遍历
+
 
 ---
