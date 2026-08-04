@@ -26,3 +26,23 @@ public:
         return 1 + countNodes(node->left) + countNodes(node->right);
     }
 };
+
+/* 最优解法
+class Solution {
+public:
+    int kthSmallest(TreeNode* root, int k) {
+        stack<TreeNode*> stk;
+        TreeNode* cur = root;
+        while (cur || !stk.empty()) {
+            while (cur) {
+                stk.push(cur);
+                cur = cur->left;
+            }
+            cur = stk.top(); stk.pop();
+            if (--k == 0) return cur->val;
+            cur = cur->right;
+        }
+        return -1;
+    }
+};
+*/
