@@ -147,7 +147,11 @@
 - 递归
 
 ### [637. 二叉树的层平均值](solutions/binary-tree-level-order/637.cpp)
-- `queue`类型的`push`,`empty`,`pop`函数
+- `queue`类型的`push`,`empty`,`pop`,`front`函数
+
+### [199. 二叉树的右视图](solutions/binary-tree-level-order/199.cpp)
+- pair类型,与stack类型的`push`,`empty`,`pop`,`top`函数
+- dfs递归
 
 
 ---
