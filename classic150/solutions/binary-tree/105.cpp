@@ -12,7 +12,7 @@
 class Solution {
 public:
     TreeNode* buildTree(vector<int>& preorder, vector<int>& inorder) {
-        unordered_map<int, int> pos;23
+        unordered_map<int, int> pos;
         for (int i = 0; i < inorder.size(); ++i) {
             pos[inorder[i]] = i;
         }
