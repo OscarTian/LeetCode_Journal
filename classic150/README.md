@@ -177,5 +177,8 @@
 ### [35. 搜索插入位置](solutions/binary-search/035.cpp)
 - 二分查找
 
+### [67. 二进制求和](solutions/bit-manipulation/067.cpp)
+- 位运算
+
 
 ---
