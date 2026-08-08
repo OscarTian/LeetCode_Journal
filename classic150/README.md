@@ -174,5 +174,8 @@
 ### [108. 将有序数组转换为二叉搜索树](solutions/divide-and-conquer/108.cpp)
 - 分治算法
 
+### [35. 搜索插入位置](solutions/binary-search/035.cpp)
+- 二分查找
+
 
 ---
