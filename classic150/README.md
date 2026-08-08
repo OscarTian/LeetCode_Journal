@@ -199,5 +199,9 @@
 ### [120. 三角形最小路径和](solutions/multi-dp/120.cpp)
 - 多维动态规划
 
+### [148. 排序链表](solutions/divide-and-conquer/148.cpp)
+- 快慢指针法
+- 分治
+
 
 ---
