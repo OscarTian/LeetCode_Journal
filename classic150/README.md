@@ -196,5 +196,8 @@
 - 利用`priority_queue`优先队列实现
 - 用`greater<int>`参数定义小顶堆
 
+### [120. 三角形最小路径和](solutions/multi-dp/120.cpp)
+- 多维动态数组
+
 
 ---
