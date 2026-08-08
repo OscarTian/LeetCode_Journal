@@ -192,5 +192,9 @@
 ### [53. 最大子数组和](solutions/kadane/053.cpp)
 - kadane算法基础
 
+### [215. 数组中的第K个最大元素](solutions/heap/215.cpp)
+- 利用`priority_queue`优先队列实现
+- 用`greater<int>`参数定义小顶堆
+
 
 ---
