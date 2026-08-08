@@ -180,5 +180,8 @@
 ### [67. 二进制求和](solutions/bit-manipulation/067.cpp)
 - 位运算
 
+### [9. 回文数](solutions/math/009.cpp)
+- 纯数字解法
+
 
 ---
