@@ -189,5 +189,8 @@
 ### [17. 电话号码的字母组合](solutions/backtracking/017.cpp)
 - dfs回溯
 
+### [53. 最大子数组和](solutions/kadane/053.cpp)
+- kadane算法基础
+
 
 ---
