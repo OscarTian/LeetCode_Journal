@@ -206,5 +206,13 @@
 ### [74. 搜索二维矩阵](solutions/binary-search/074.cpp)
 - 二维二分查找
 
+### [136. 只出现一次的数字](solutions/bit-manipulation/136.cpp)
+- 位运算
+- 按位异或`^`
+
+### [137. 只出现一次的数字 II](solutions/bit-manipulation/137.cpp)
+- 按位异或`^`,取反`~`,与`&`
+- 进位抑制
+
 
 ---
