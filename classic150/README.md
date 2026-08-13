@@ -255,5 +255,7 @@
 
 ### [191. 位1的个数](solutions/bit-manipulation/191.cpp)
 
+### [69. x的平方根](solutions/math/069.cpp)
+
 
 ---
