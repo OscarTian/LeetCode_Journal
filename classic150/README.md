@@ -237,5 +237,8 @@
 ### [21. 同构字符串](solutions/linked-list/021.cpp)
 - 虚拟头节点
 
+### [100. 相同的树](solutions/binary-tree/100.cpp)
+- 递归
+
 
 ---
