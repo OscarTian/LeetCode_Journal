@@ -232,7 +232,7 @@
 ## 2026.08.13
 
 ### [205. 同构字符串](solutions/hash-table/205.cpp)
-- ASCII码为int赋值
+- ASCII码为`int`赋值
 
 ### [21. 同构字符串](solutions/linked-list/021.cpp)
 - 虚拟头节点
