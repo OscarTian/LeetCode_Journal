@@ -244,5 +244,8 @@
 - 分治法
 - 位交换
 
+### [66. 加一](solutions/math/066.cpp)
+- `vector`容器的`insert`函数
+
 
 ---
