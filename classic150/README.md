@@ -247,7 +247,7 @@
 ### [66. 加一](solutions/math/066.cpp)
 - `vector`容器的`insert`函数
 
-### [290. 加一](solutions/hash-table/290.cpp)
+### [290. 单词规律](solutions/hash-table/290.cpp)
 - `unordered_map`
 
 
