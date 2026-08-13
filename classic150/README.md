@@ -253,5 +253,7 @@
 ### [226. 翻转二叉树](solutions/binary-tree/226.cpp)
 - 递归
 
+### [191. 位1的个数](solutions/bit-manipulation/191.cpp)
+
 
 ---
