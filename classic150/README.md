@@ -229,5 +229,10 @@
 ### [130. 被围绕的区域](solutions/graph/130.cpp)
 - dfs
 
+## 2026.08.13
+
+### [205. 同构字符串](solutions/hash-table/205.cpp)
+- ASCII码为int赋值
+
 
 ---
