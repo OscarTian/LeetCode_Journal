@@ -250,5 +250,8 @@
 ### [290. 单词规律](solutions/hash-table/290.cpp)
 - `unordered_map`
 
+### [226. 翻转二叉树](solutions/binary-tree/226.cpp)
+- 递归
+
 
 ---
