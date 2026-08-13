@@ -257,5 +257,7 @@
 
 ### [69. x的平方根](solutions/math/069.cpp)
 
+### [242. 有效的字母异位词](solutions/hash-table/242.cpp)
+
 
 ---
