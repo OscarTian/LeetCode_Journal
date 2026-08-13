@@ -240,5 +240,9 @@
 ### [100. 相同的树](solutions/binary-tree/100.cpp)
 - 递归
 
+### [190. 颠倒二进制位](solutions/bit-manipulation/190.cpp)
+- 分治法
+- 位交换
+
 
 ---
