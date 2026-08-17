@@ -259,5 +259,18 @@
 
 ### [242. 有效的字母异位词](solutions/hash-table/242.cpp)
 
+## 2026.08.17
+
+### [1. 两数之和](solutions/hash-table/001.cpp)
+- `unordered_map`哈希表
+
+### [101. 对称二叉树](solutions/binary-tree/101.cpp)
+
+### [202. 快乐数](solutions/hash-table/202.cpp)
+
+### [112. 路径总和](solutions/binary-tree/112.cpp)
+
+### [219. 存在重复元素 II](solutions/hash-table/219.cpp)
+
 
 ---
